@@ -1,0 +1,13 @@
+{
+  "name": "离线地址生成器",
+  "short_name": "冷钱包",
+  "start_url": "./cold-wallet.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
